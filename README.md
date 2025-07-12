@@ -22,10 +22,10 @@ This script automates the installation and setup of Caddy web server with the Cl
 
 ```bash
 # Download and run the script
-curl -fsSL https://raw.githubusercontent.com/yourusername/caddy-cloudflare-setup/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/0xmk4y/caddy-cloudflare-setup/main/install.sh | sudo bash
 
 # Or clone and run locally
-git clone https://github.com/yourusername/caddy-cloudflare-setup.git
+git clone https://github.com/0xmk4y/caddy-cloudflare-setup.git
 cd caddy-cloudflare-setup
 sudo chmod +x install.sh
 sudo ./install.sh
@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/caddy-cloudflare-setup/issues) page
+1. Check the [Issues](https://github.com/0xmk4y/caddy-cloudflare-setup/issues) page
 2. Create a new issue with detailed information about your problem
 3. Include your OS version, error messages, and relevant logs
 
